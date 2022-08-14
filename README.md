@@ -3,6 +3,7 @@
 1. [2,27,16,22,18,6]
 2. [2,6,16,22,18,27]
 3. [2,6,16,18,22,27]
+
 **Big-O gösterimi:** n(n+1)/2 O(n^2)
 **Time Complexity:** Avarage Case: Aradığımız sayının ortada olması Worst Case: Aradığımız sayının sonda olması Best Case: Aradığımız sayının dizinin en başında olması
 Dizi sıralandıktan sonra 18 sayısı avarage case kapsamına girer.
